@@ -39,4 +39,4 @@ No se preocupe si obtiene un punto en GitHub en ese día en particular. Sí, es 
 * [Reglas](reglas.md)
 * [Diario - haga clic aquí para ver mi progreso](diario.md)
 * [Preguntas frecuentes](preguntas_frecuentes.md)
-* [Recursos](recursos.md)
+
