@@ -1,8 +1,8 @@
 # 100 días de código - diario
 ### Día 0: 30 de febrero de 2016 (ejemplo 1)
-
+<!--
 ##### (elimine o comente)
-
+-->
 **Progreso de hoy**: Arreglé CSS y trabajé en funciones de canvas por el app.
 
 **Reflexiones:** Trabajando con el CSS fue una prueba pero, en general, siento que estoy progresando y mejorando lentamente. Canvas, todavía es nuevo para mi pero logré descubrir algunas funcionalidades básicas.  
