@@ -6,7 +6,7 @@
 **Progreso de hoy**: Arreglé CSS y trabajé en funciones de canvas por el app.
 
 **Reflexiones:** Trabajando con el CSS fue una prueba pero, en general, siento que estoy progresando y mejorando lentamente. Canvas, todavía es nuevo para mi pero logré descubrir algunas funcionalidades básicas.  
-**Enlace a mi trabajo:** [Calculadora App](http://www.example.com)
+**Enlace a mi trabajo:** [Calculadora App](http://www.example.com) <!--  Aquí pondría el enlace a mi repositorio donde esta lo que hice ese día -->
 
 ### día 1: 27 de junio, 2016
 
