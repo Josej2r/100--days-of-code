@@ -6,7 +6,7 @@
 
 #### Fecha de inicio
 
-25 de junio de 2020. José Reyes
+24 de Septiembre de 2020. José Reyes
 
 ## Reglas adicionales
 
