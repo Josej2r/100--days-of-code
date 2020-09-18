@@ -41,4 +41,4 @@
 * [Reglas](reglas.md)
 * [Diario - haga clic aquí para ver mi progreso](diario.md)
 * [Preguntas frecuentes](preguntas_frecuentes.md)
-* [Recursos](recursos.md)
+
