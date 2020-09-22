@@ -1,5 +1,13 @@
 # 100 días de código - diario
 ### Día 0: 22 de septiembre de 2020
+
+**Progreso de hoy**: He completado muchos ejercicios en FreeCodeCamp.
+**Reflexiones**:
+**Enlace(s) a mi trabajo**
+
+
+
+
 <!--
 (elimine o comente)
 
