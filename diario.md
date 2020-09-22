@@ -1,7 +1,7 @@
 # 100 días de código - diario
 ### Día 0: 22 de septiembre de 2020
 <!--
-##### (elimine o comente)
+(elimine o comente)
 
 **Progreso de hoy**: Arreglé CSS y trabajé en funciones de canvas por el app.
 
