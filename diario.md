@@ -7,7 +7,13 @@
 
 **Enlace(s) a mi trabajo**
 
+### Día 1: 23 de septiembre de 2020
 
+**Progreso de hoy**: He completado muchos ejercicios en FreeCodeCamp.
+
+**Reflexiones**:Todavía las cosas que estoy aprendiendo me resultan fáciles, son conceptos que ya conocia. Pero por lo menos ya estamos haciendo pequeños problemas.
+
+**Enlace(s) a mi trabajo**
 
 
 <!--
