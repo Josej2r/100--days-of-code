@@ -15,7 +15,13 @@
 
 **Enlace(s) a mi trabajo**
 
+### Día 2: 24 de septiembre de 2020
 
+**Progreso de hoy**: He completado muchos ejercicios en FreeCodeCamp.
+
+**Reflexiones**:Los problemas ya van costando un poco más, pero los conocimientos no son complicados de entender. Pero siguen teniendo un aspecto poco realista con la vida.
+
+**Enlace(s) a mi trabajo**
 <!--
 (elimine o comente)
 
