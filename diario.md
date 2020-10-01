@@ -47,7 +47,13 @@
 
 **Enlace(s) a mi trabajo**
 
+### Día 6: 1 de octubre de 2020
 
+**Progreso de hoy**: He acabado el tema correpondiente a las listas.Y comence el tema de los diccionarios
+
+**Reflexiones**:He estado atascado con un problema dos días, pero al final ha salido después de revisar con mas tranquilidad el tema y las diapositivas correspondientes.
+
+**Enlace(s) a mi trabajo**
 
 
 
