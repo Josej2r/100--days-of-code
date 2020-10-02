@@ -55,7 +55,13 @@
 
 **Enlace(s) a mi trabajo**
 
+### Día 7: 2 de octubre de 2020
 
+**Progreso de hoy**: He acabado el tema de los diccionarios y hecho los ejercicios propuestos para ese tema.
+
+**Reflexiones**: De momento paracen que los problemas son muy similares, y no he tenido muchas complicaciones
+
+**Enlace(s) a mi trabajo**
 
 
 <!--
