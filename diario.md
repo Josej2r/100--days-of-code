@@ -57,13 +57,27 @@
 
 ### Día 7: 2 de octubre de 2020
 
+**Progreso de hoy**: Comenze el tema 10 correspondiente a Tuplas
+
+**Reflexiones**: Son muy similaresa las listas, y por eso comparten muchos métodos, pero de la misma manera es confuso porque no todas las operaciones son iguales, también se relacionan con los diccionarios.
+
+**Enlace(s) a mi trabajo**
+
+### Día 7: 3 de octubre de 2020
+
+**Progreso de hoy**:Me puse a realizar los ejecicios de final del tema de Tuplas, realice 2 de 3. El tercer ejercicio no conseguí hacerlo. 
+
+**Reflexiones**: Me confunde cuando se pueden aplicar algunos métodos o funciones, ya que si son listas o cadenas se pueden aplicar o no y quizás eso sea lo que me impide acabar el ejercicio que me queda de este tema
+
+**Enlace(s) a mi trabajo**
+
+### Día 7: 4 de octubre de 2020
+
 **Progreso de hoy**: He acabado el tema de los diccionarios y hecho los ejercicios propuestos para ese tema. También realice las unidades correspondientes en freeCodeCamp.org
 
 **Reflexiones**: De momento paracen que los problemas son muy similares, y no he tenido muchas complicaciones
 
 **Enlace(s) a mi trabajo**
-
-
 <!--
 (elimine o comente)
 
