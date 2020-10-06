@@ -63,7 +63,7 @@
 
 **Enlace(s) a mi trabajo**
 
-### Día 7: 3 de octubre de 2020
+### Día 8: 3 de octubre de 2020
 
 **Progreso de hoy**:Me puse a realizar los ejecicios de final del tema de Tuplas, realice 2 de 3. El tercer ejercicio no conseguí hacerlo. 
 
@@ -71,13 +71,38 @@
 
 **Enlace(s) a mi trabajo**
 
-### Día 7: 4 de octubre de 2020
+### Día 9: 4 de octubre de 2020
 
 **Progreso de hoy**: He acabado el tema de los diccionarios y hecho los ejercicios propuestos para ese tema. También realice las unidades correspondientes en freeCodeCamp.org
 
 **Reflexiones**: De momento paracen que los problemas son muy similares, y no he tenido muchas complicaciones
 
 **Enlace(s) a mi trabajo**
+
+### Día 10: 5 de octubre de 2020
+
+**Progreso de hoy**: Leí el tema de Expresiones regulares
+
+**Reflexiones**: Como en otros idiomas que ya he utilizado las expresiones regulares, me parece un tema el cual se necesita mucha práctica para tener fluidez en su uso
+
+**Enlace(s) a mi trabajo**
+
+### Día 11: 5 de octubre de 2020
+
+**Progreso de hoy**: Leí el tema de Expresiones regulares
+
+**Reflexiones**: Como en otros idiomas que ya he utilizado las expresiones regulares, me parece un tema el cual se necesita mucha práctica para tener fluidez en su uso
+
+**Enlace(s) a mi trabajo**
+
+### Día 12: 6 de octubre de 2020
+
+**Progreso de hoy**: Realize los problemas de las expresiones regulares.
+
+**Reflexiones**: 
+
+**Enlace(s) a mi trabajo**
+
 <!--
 (elimine o comente)
 
