@@ -103,6 +103,14 @@
 
 **Enlace(s) a mi trabajo**
 
+### Día 13: 7 de octubre de 2020
+
+**Progreso de hoy**: Realice la lectura del tema de Análisis de HTML. Y las actividades correspondientes en freeCodeCamp.org
+
+**Reflexiones**: 
+
+**Enlace(s) a mi trabajo**
+
 <!--
 (elimine o comente)
 
