@@ -111,6 +111,22 @@
 
 **Enlace(s) a mi trabajo**
 
+### Día 14: 8 de octubre de 2020
+
+**Progreso de hoy**: Realice dos ejercicios correspondientes al tema de análisis de HTML
+
+**Reflexiones**: 
+
+**Enlace(s) a mi trabajo**
+
+### Día 15: 9 de octubre de 2020
+
+**Progreso de hoy**: 
+
+**Reflexiones**: 
+
+**Enlace(s) a mi trabajo**
+
 <!--
 (elimine o comente)
 
