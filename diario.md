@@ -121,9 +121,9 @@
 
 ### Día 15: 9 de octubre de 2020
 
-**Progreso de hoy**: 
+**Progreso de hoy**: Realice un problema que no sabia hacer correspondiente al tema 10. También un problema del tema de análisis de HTML. Lectura parcial del tema 13 y he realizado las actividades correspondientes a este tema en freeCodeCamp
 
-**Reflexiones**: 
+**Reflexiones**: Estas cosas me desmotivan un poco , no le encuentro la utilidad en el momento y me aburre simplemente estar leyendo las explicaciones
 
 **Enlace(s) a mi trabajo**
 
