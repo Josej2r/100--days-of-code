@@ -137,9 +137,9 @@
 
 ### Día 17: 11 de octubre de 2020
 
-**Progreso de hoy**: Comenzamos el tema de Programación Orientada a objetos 
+**Progreso de hoy**: Comenzamos el tema de Programación Orientada a objetos he leido el tema y realizado las cuestiones correspondientes en freeCodeCamp.org
 
-**Reflexiones**: 
+**Reflexiones**: Me parece que no tengo el control sobre el tema porque no había problemas para realizar.
 
 **Enlace(s) a mi trabajo**
 
