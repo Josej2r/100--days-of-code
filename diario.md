@@ -129,9 +129,17 @@
 
 ### Día 16: 10 de octubre de 2020
 
-**Progreso de hoy**: Realice un problema que no sabia hacer correspondiente al tema 10. También un problema del tema de análisis de HTML. Lectura parcial del tema 13 y he realizado las actividades correspondientes a este tema en freeCodeCamp
+**Progreso de hoy**: 
 
-**Reflexiones**: Estas cosas me desmotivan un poco , no le encuentro la utilidad en el momento y me aburre simplemente estar leyendo las explicaciones
+**Reflexiones**: 
+
+**Enlace(s) a mi trabajo**
+
+### Día 17: 11 de octubre de 2020
+
+**Progreso de hoy**: Comenzamos el tema de Programación Orientada a objetos 
+
+**Reflexiones**: 
 
 **Enlace(s) a mi trabajo**
 
