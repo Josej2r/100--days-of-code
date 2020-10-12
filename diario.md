@@ -143,6 +143,14 @@
 
 **Enlace(s) a mi trabajo**
 
+### Día 18: 12 de octubre de 2020
+
+**Progreso de hoy**: Comenzamos el tema 15 correspondiente a bases de daatos y SQL y hemos realizado algunas cuestiones correspondientes en freeCodeCamp.org
+
+**Reflexiones**: No parece muy complicado pero todavía nos queda la parte de interconectar distintas tablas
+
+**Enlace(s) a mi trabajo**
+
 <!--
 (elimine o comente)
 
