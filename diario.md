@@ -151,6 +151,14 @@
 
 **Enlace(s) a mi trabajo**
 
+### Día 19: 15 de octubre de 2020
+
+**Progreso de hoy**: Hemos acabado la parte del tema de base de datos. También realice las cuestiones correspondientes de freeCodeCamp.org a esta parte del tema.
+
+**Reflexiones**: No lo veo muy complicado, pero quiero aplicarlo en ejemplos, para asegurarme qu lo entiendo.
+
+**Enlace(s) a mi trabajo**
+
 <!--
 (elimine o comente)
 
