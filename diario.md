@@ -159,6 +159,14 @@
 
 **Enlace(s) a mi trabajo**
 
+### Día 20: 16 de octubre de 2020
+
+**Progreso de hoy**: 
+
+**Reflexiones**: 
+
+**Enlace(s) a mi trabajo**
+
 <!--
 (elimine o comente)
 
